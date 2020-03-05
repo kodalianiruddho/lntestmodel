@@ -1,5 +1,10 @@
-flask
+Flask
 pandas
+Flask-RESTful
+uwsgi
 gunicorn
-xgboost
 sklearn
+flask_restplus
+flask_api
+werkzeug
+cached_property
