@@ -6,5 +6,5 @@ gunicorn
 sklearn
 flask_restplus
 flask_api
-Werkzeug==0.16.1
+Werkzeug==2.2.3
 cached_property
